@@ -12,8 +12,11 @@ This example was part of a programming test.
 ## How to run this project
  It is recommended Node v12.13.0.
  
+ Install all the dependencies
+ `npm init` or `yarn`
+
  Run the file main.js, make sure the port 3005 is available
- `npm start`
+ `npm start` or `yarn start`
  
  To specify a port use:
  `PORT=<port> node main.js`
